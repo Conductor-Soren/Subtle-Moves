@@ -1,0 +1,7 @@
+{
+  "block": "minecraft:furnace",
+  "states": {
+    "Heating": "stateworks_example:block/furnace/heating",
+    "Cooling": "stateworks_example:block/furnace/cooling"
+  }
+}
